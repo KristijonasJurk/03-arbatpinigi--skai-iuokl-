@@ -19,6 +19,7 @@ h1 {
     text-align: center;
     width: 50%;
     height: 35%;
+    min-width: 500px;
     background-color: antiquewhite;
     top: 25%;
     left: 25%;
